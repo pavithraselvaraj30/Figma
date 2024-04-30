@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:30.4.24
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
-
+![alt text](<Screenshot 2024-04-30 131549.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
